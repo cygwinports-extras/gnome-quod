@@ -1,0 +1,5 @@
+inherit gnome2
+
+DESCRIPTION="Gnome Quod game"
+HOMEPAGE="http://sourceforge.net/projects/gquod/"
+SRC_URI="mirror://sourceforge/gquod/${P}.tar.bz2"
