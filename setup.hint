@@ -1,8 +1,0 @@
-category: Games Gnome
-requires: libatkmm1.6_1 libcairomm1.0_1 libgcc1 libglib2.0_0 libglibmm2.4_1 libgtkmm2.4_1 libintl8 librsvg2_2 libsigc2.0_0 libstdc++6 libxml++2.6_2
-sdesc: "Gnome Quod game"
-ldesc: "Quod has simple rules, but playing well requires sophisticated 
-strategy. The goal of the game is to place pieces on a grid so that they 
-make a square. The player who makes a square first wins. Squares can be 
-any size and orientation, and players have a limited supply of blocking 
-pieces, which adds to the complexity and interest."

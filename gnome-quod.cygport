@@ -1,0 +1,14 @@
+inherit gnome2
+
+NAME="gnome-quod"
+VERSION=0.2.3
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="GNOME Quod game"
+DESCRIPTION="Quod has simple rules, but playing well requires sophisticated
+strategy. The goal of the game is to place pieces on a grid so that they make
+a square. The player who makes a square first wins. Squares can be any size
+and orientation, and players have a limited supply of blocking pieces, which
+adds to the complexity and interest."
+HOMEPAGE="http://sourceforge.net/projects/gquod/"
+SRC_URI="mirror://sourceforge/gquod/${NAME}-${VERSION}.tar.bz2"
